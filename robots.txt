@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vishalwebdevnew4.github.io/snippets-uwaplh/sitemap.xml
